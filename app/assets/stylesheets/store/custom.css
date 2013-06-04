@@ -1,0 +1,12 @@
+/* Custom CSS */
+
+#footer-pages ul {
+	float:right;
+}
+#footer-pages ul li {
+     list-style: none;
+     float:left;
+	padding: 0 6px;
+     font-size: 11px;
+     color: #666;
+}
